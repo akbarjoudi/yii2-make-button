@@ -1,0 +1,21 @@
+{
+    "name": "aki/yii2-make-button",
+    "description": "For make button",
+    "type": "yii2-extension",
+    "keywords": ["yii2","button","yii2-button","button-effect","meke-button","make-easy-button","beautiful-button"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "akbar joudi",
+            "email": "akbar.joody@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "aki\\button\\": ""
+        }
+    }
+}
