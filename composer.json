@@ -11,8 +11,10 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "codrops/CreativeButtons": "*"
+        "yiisoft/yii2": "*"
+    },
+    "require-dev":{
+    	"codrops/CreativeButtons": "*"
     },
     "autoload": {
         "psr-4": {
